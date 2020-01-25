@@ -1,0 +1,42 @@
+#program 1
+for i in[ 0,1,2,3,4,5]
+print("I Love To Program")
+ output ::
+ I Love To Program
+ I Love To Program
+ I Love To Program
+ I Love To Program
+ I Love To Program
+ I Love To Program
+
+
+  #program 2
+  for number in range(2,6):
+   print(number)
+    output:
+
+    2
+    3
+    4
+    5
+
+  #program 3
+  for number in range(10,5,-1):
+   print(number)
+  10
+  9
+  8
+  7
+  6
+  5
+
+ #program 4
+ for number in range(0,501,100):
+   print(number)
+ output
+ 0
+100
+200
+300
+400
+500

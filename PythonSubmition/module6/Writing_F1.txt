@@ -1,0 +1,3 @@
+HEllo World Mr Python USer its a file Handling COncept to Write
+ to TO writing The Data uisng Python
+This Is Kapil Sharma Write Data to File
